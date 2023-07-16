@@ -65,7 +65,7 @@ def tiktok_dl(client, message):
 
     
     params = {
-      "link": link
+      "link": https://www.tiktok.com/@sidemen/video/6818257229477645573
     }
     headers = {
       'x-rapidapi-host': "tiktok-info.p.rapidapi.com",
